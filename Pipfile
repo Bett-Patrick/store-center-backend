@@ -9,6 +9,7 @@ flask-bcrypt = "*"
 flask-migrate = "*"
 flask-sqlalchemy = "*"
 flask-restful = "*"
+faker = "*"
 
 [dev-packages]
 
