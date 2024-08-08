@@ -1,0 +1,26 @@
+-i https://pypi.org/simple
+alembic
+aniso8601
+click
+flask
+flask-cors
+flask-migrate
+flask-restful
+flask-sqlalchemy
+gunicorn
+honcho
+importlib-metadata
+itsdangerous
+jinja2
+mako
+markupsafe
+psycopg2-binary
+python-dotenv
+pytz
+setuptools
+six
+sqlalchemy
+sqlalchemy-serializer
+werkzeug
+zipp
+flask_bcrypt
